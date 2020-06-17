@@ -60,5 +60,7 @@ function getHeaderTitle(route) {
       return 'How to get started';
     case 'Links':
       return 'Links to learn more';
+    case 'Hooks':
+      return "Let's HOOK up a todo app";
   }
 }
